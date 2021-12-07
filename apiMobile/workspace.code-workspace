@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\finals"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"animus-coop.vscode-phpstorm-formatter"
+		]
+	}
+}
