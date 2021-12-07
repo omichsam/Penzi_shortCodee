@@ -1,0 +1,16 @@
+.card-round{
+    border: black 1px solid;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 40px;
+    border-bottom: darkslategrey 2px solid;
+    border-style: solid;
+    border-color: rgb(187, 192, 187) !important;
+}
+.card-rounded{
+    border: black 1px solid;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom: darkslategrey 2px solid;
+    border-style: solid;
+    border-color: rgb(187, 192, 187) !important;
+}
